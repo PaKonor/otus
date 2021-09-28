@@ -1,1 +1,2 @@
-# otus - hello_worlf
+# OTUS - hello_world
+
